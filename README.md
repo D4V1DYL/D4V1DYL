@@ -82,19 +82,6 @@ const dave = {
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- TODO: ganti href="#" dengan link repo masing-masing -->
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌊 **[AquaShield](#)** | IoT flood detection system with real-time alerts to a mobile app | ESP32-C3 · FastAPI · React Native |
-| 💸 **[Split Bill](#)** | Split bills with friends in realtime rooms, with AI menu scanning | React Native · Laravel · Claude API |
-| 🛡️ **[AI PII Redaction Gateway](#)** | Proxy that redacts sensitive data before prompts reach an LLM | Regex · NER · Local LLM |
-| 📦 **[CYD Barcode Scanner](#)** | Barcode scanning demo on an ESP32 display board | ESP32 CYD · GM65 |
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Kartu di bawah dibuat oleh GitHub Action (.github/workflows/profile-cards.yml) -->
