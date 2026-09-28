@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=D4V1DYL&icon=0&color=0" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=D4V1DYL&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="visitors" />
 </p>
 
 ---
@@ -97,25 +97,36 @@ const dave = {
 
 ## 📊 GitHub Stats
 
+<!-- Kartu di bawah dibuat oleh GitHub Action (.github/workflows/profile-cards.yml) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=D4V1DYL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4V1DYL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=D4V1DYL&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D4V1DYL&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
 ---
 
-## 🏆 Trophies
+## 🐍 Contribution Snake
 
+<!-- Dibuat oleh GitHub Action (.github/workflows/snake.yml) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=D4V1DYL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D4V1DYL/D4V1DYL/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4V1DYL/D4V1DYL/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/D4V1DYL/D4V1DYL/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
